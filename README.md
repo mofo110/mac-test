@@ -19,6 +19,10 @@ cd mac-test
 
 ### Step 2: Execute to say hello.
 
+```bash
+node app.js
+```
+
 > [!NOTE]
 > Sample output
 
